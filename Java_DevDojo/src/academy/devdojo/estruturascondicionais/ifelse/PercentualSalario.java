@@ -1,3 +1,5 @@
+package academy.devdojo.estruturascondicionais.ifelse;
+
 public class PercentualSalario {
     public static void main(String[] args) {
 

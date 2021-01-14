@@ -1,3 +1,5 @@
+package academy.devdojo.variaveis;
+
 public class ImprimindoVariaveis {
     public static void main(String[] args) {
         // Comentarios de uma unica linha

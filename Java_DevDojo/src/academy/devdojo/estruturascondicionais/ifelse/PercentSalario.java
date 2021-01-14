@@ -1,3 +1,5 @@
+package academy.devdojo.estruturascondicionais.ifelse;
+
 import java.util.Scanner;
 
 public class PercentSalario {
