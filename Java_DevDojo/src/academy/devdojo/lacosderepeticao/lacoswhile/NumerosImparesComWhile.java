@@ -9,7 +9,13 @@ public class NumerosImparesComWhile {
 
         Scanner entrada = new Scanner(System.in);
         int numero = entrada.nextInt();
+        int i = 0;
 
-        while (numero < )
+        while (i <= numero){
+            if (i % 2 != 0){
+                System.out.println("i = " + i);
+            }
+            i ++;
+        }
     }
 }
