@@ -36,5 +36,6 @@ public class CadastroAlistamento2 {
             }
         }
         System.out.println(nome + " " + definicao);
+        entrada.close();
     }
 }

@@ -15,5 +15,6 @@ public class NumeroImparOuPar {
             valor = "impar";
         }
         System.out.println(valor);
+        entrada.close();
     }
 }

@@ -36,5 +36,6 @@ public class DiaSemanaSwitch {
                 break;
         }
         System.out.println(diaSemana);
+        entrada.close();
     }
 }

@@ -17,5 +17,6 @@ public class NumerosImparesComWhile {
             }
             i ++;
         }
+        entrada.close();
     }
 }

@@ -18,5 +18,6 @@ public class CadastroUsuario {
             nome = entrada.next();
         }
         System.out.println("O nome digitado foi: " + nome);
+        entrada.close();
     }
 }

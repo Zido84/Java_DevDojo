@@ -27,5 +27,6 @@ public class CategoriasCompeticao {
             categoria = "Adulto";
         }
         System.out.println(nome + " Participara da categoria " + categoria);
+        entrada.close();
     }
 }
